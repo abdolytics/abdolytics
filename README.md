@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Abdellah AIT AHMED OUAAL</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Abdellah-Ait-Ahmed-Ouaal/Abdellah-Ait-Ahmed-Ouaal/main/abdellah-banner.png" alt="Profile Banner" height="70%"/>
+    <img src="https://raw.githubusercontent.com/abdolytics/abdolytics/main/abdellah-banner.png" alt="Profile Banner" height="70%"/>
 </p>
 
 <p align="center">
