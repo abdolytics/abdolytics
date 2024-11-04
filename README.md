@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm ABDELLAH AIT AHMED OUAAL</h1>
+<h1 align="center">Hi everyone 👋, I'm Abdellah AIT AHMED OUAAL</h1>
 
 ![Profile Banner](https://raw.githubusercontent.com/abdolytics/abdolytics/main/abdolytics-banner.png)
 
