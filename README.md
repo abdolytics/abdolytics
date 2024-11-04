@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="70%">
       <ul>
         <li>🌱 I’m currently diving deeper into AWS Cloud Practitioner course.</li>
         <li>🎓 Recently graduated and now exploring the vast data ocean.</li>
