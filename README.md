@@ -11,7 +11,7 @@
 
 <hr/>
 
-<h2>💫 About Me</h2>
+<h2>👤 About Me</h2>
 
 <img align="right" alt="Welcome Animation" width="40%" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
 
